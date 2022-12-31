@@ -9,5 +9,4 @@ r = random.random()
 print(r)
 
 love_score = random.randint(1, 100)
-print(love_score
-      )
+print(love_score)
